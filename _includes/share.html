@@ -1,5 +1,5 @@
 {% if page.share_buttons %}
-{% assign share-url = page.url | prepend: site.baseurl | prepend: site.url %}
+{% assign share-url = page.url  | prepend: site.url %}
 {% assign share-thumb = page.thumb %} <!-- TO-DO -->
 {% assign share-title = page.title | replace: ' ', '%20' %}
 {% assign share-excerpt = page.excerpt | strip_html | truncatewords: 30 | replace: ' ', '%20' %}
