@@ -2,8 +2,8 @@
 name: 'On The Weekends'
 description: 'Travel, fashion, life'
 
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'akonwi.github.io' # the base hostname & protocol for your site
+baseurl: 'ontheweekends' # the subpath of your site, e.g. /blog
+url: 'ontheweekends.co' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
