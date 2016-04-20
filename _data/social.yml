@@ -2,13 +2,13 @@
 facebook: true
 twitter: true
 googleplus: true
-linkedin: false
-reddit: true
-hackernews: true
-pinterest: false
+linkedin: true
+reddit: false
+hackernews: false
+pinterest: true
 tumblr: false
-pocket: true
+pocket: false
 email: false
 
 # Disqus
-disqus_shortname: 'example'
+disqus_shortname: ''

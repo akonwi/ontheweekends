@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
+On The Weekends is all about travel, fashion, and enjoying life. Here you'll find posts about places I've been, things I've done, or enjoy as an early 20's consultant living life on the road. All Weekenders welcome!
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
-
-## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
-
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
-    jekyll serve
-
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
+You can also keep up with my adventures on instagram at [@on_the_weekends](https://www.instagram.com/on_the_weekends/)
