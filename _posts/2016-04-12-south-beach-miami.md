@@ -2,7 +2,7 @@
 author: Akonwi Ngoh
 layout: post
 title: "South Beach Miami"
-date: 2015-04-19
+date: 2015-04-12
 backgrounds:
   - http://theviennesegirl.com/wp-content/uploads/2015/10/South-Beach-Miami-20.jpg
 thumb: https://media.timeout.com/images/101526759/image.jpg
