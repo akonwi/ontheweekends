@@ -2,8 +2,8 @@
 name: 'On The Weekends'
 description: 'Travel, fashion, life'
 
-baseurl: 'ontheweekends' # the subpath of your site, e.g. /blog
-url: 'http://akonwi.github.io' # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'http://akonwi.io' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
@@ -15,9 +15,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Akonwi Ngoh'
-    email: 'akonwi@gmail.com'
-    uri: 'https://github.com/akonwi'
+  name: 'Akonwi Ngoh'
+  email: 'akonwi@gmail.com'
+  uri: 'http://akonwi.io'
 
 sass:
     sass_dir: _sass
