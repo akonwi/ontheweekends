@@ -19,6 +19,8 @@ author:
   email: 'akonwi@gmail.com'
   uri: 'http://akonwi.io'
 
+google_analytics_tracking_id: UA-47544457-2
+
 sass:
     sass_dir: _sass
     style:    compressed
