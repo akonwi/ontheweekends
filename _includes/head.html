@@ -1,8 +1,8 @@
 {% assign env = jekyll.environment %}
 {% if env == "production" %}
-  {% assign prepend = '' %}
-{% else %}
   {% assign prepend = site.github.url %}
+{% else %}
+  {% assign prepend = '' %}
 {% endif %}
 <head>
     <meta charset="utf-8">
