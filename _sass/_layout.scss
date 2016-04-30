@@ -121,6 +121,11 @@
             right: 0;
             top: 0;
 
+            &.affiliate > img {
+              position: static;
+              margin: inherit;
+            }
+
             &:hover {
                 background: rgba($dark-color, .25);
             }
