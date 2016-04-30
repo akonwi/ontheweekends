@@ -1,9 +1,15 @@
-<script type="text/javascript" src="{{ "/assets/js/libs/jquery.min.js"  }}"></script>
-<script type="text/javascript" src="{{ "/assets/js/libs/slidebars.min.js"  }}"></script>
-<script type="text/javascript" src="{{ "/assets/js/libs/jquery.backstretch.min.js"  }}"></script>
-<script type="text/javascript" src="{{ "/assets/js/libs/jquery.scrollstop.js"  }}"></script>
-<script type="text/javascript" src="{{ "/assets/js/libs/rrssb.min.js"  }}"></script>
-<script type="text/javascript" src="{{ "/assets/js/functions.js"  }}"></script>
+{% assign env = jekyll.environment %}
+{% if env == "production" %}
+  {% assign prepend = site.github.url %}
+{% else %}
+  {% assign prepend = '' %}
+{% endif %}
+<script type="text/javascript" src="{{ "/assets/js/libs/jquery.min.js" | prepend: prepend }}"></script>
+<script type="text/javascript" src="{{ "/assets/js/libs/slidebars.min.js" | prepend: prepend }}"></script>
+<script type="text/javascript" src="{{ "/assets/js/libs/jquery.backstretch.min.js" | prepend: prepend }}"></script>
+<script type="text/javascript" src="{{ "/assets/js/libs/jquery.scrollstop.js" | prepend: prepend }}"></script>
+<script type="text/javascript" src="{{ "/assets/js/libs/rrssb.min.js" | prepend: prepend }}"></script>
+<script type="text/javascript" src="{{ "/assets/js/functions.js" | prepend: prepend }}"></script>
 <script type="text/javascript">
     $(function($) {
         $.slidebars();
