@@ -1,0 +1,19 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<div class="post">
+    <article class="post-content">
+        {% for person in site.data.about %}
+          <div class="bio">
+            <div class="lead-portrait">
+              <img src="/assets/images/portraits/{{ person.name }}.jpg"/>
+            </div>
+            <h2 class="job-title">{{ person.title }}</h2>
+            {{ person.bio }}
+          </div>
+        {% endfor %}
+    </article>
+</div>
