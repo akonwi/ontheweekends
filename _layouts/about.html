@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="post">
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+    </header>
+    <article class="post-content">
+        <div class="bio">
+          <div class="lead-portrait">
+            <img src="/assets/images/portraits/akonwi.jpg"/>
+          </div>
+          <h2 class="job-title">The Weekender</h2>
+          {{ page.about.akonwi.bio }}
+        </div>
+        <div class="bio">
+          <div class="lead-portrait">
+            <img src="/assets/images/portraits/matthew.jpg"/>
+          </div>
+          <h2 class="job-title">{{ page.about.matt.title }}</h2>
+          {{ page.about.matt.bio }}
+        </div>
+    </article>
+</div>

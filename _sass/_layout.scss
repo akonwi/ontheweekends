@@ -409,3 +409,26 @@
         }
     }
 }
+
+/*
+   Post
+   ========================================================================== */
+.bio {
+  margin-bottom: $spacing-unit;
+  
+  .lead-portrait {
+    width: 50%;
+    margin: 0 auto;
+
+    img {
+      border-radius: 50%;
+      width: 50%;
+    }
+  }
+
+  .job-title {
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 0px;
+  }
+}
