@@ -10,5 +10,5 @@ about:
   matt:
     title: Creative Director
     bio: |
-      My name is Matt Schappell, but for the sake of the 2000s song, you can call me Yung Jeezy- Akon and Yung Jeezy. Remember? Anyways, I am a huge fan of a few things: fashion, travel, and people. On The Weekends is an avenue where one can see all three of these things combined. For those of us who don't get the luxury of traveling every weekend, this account provides rejuvenation, excitement, and ideas to our every day life. If interested in providing content, partnerships, or ideas for our blog or Instagram account, feel free to drop me a line in the DM on the Instagram account. Enjoy!
+      My name is Matt Schappell, but for the sake of the 2000s song, you can call me Young Jeezy- Akon and Yung Jeezy. Remember? Anyways, I am a huge fan of a few things: fashion, travel, and people. On The Weekends is an avenue where one can see all three of these things combined. For those of us who don't get the luxury of traveling every weekend, this account provides rejuvenation, excitement, and ideas to our every day life. If interested in providing content, partnerships, or ideas for our blog or Instagram account, feel free to drop me a line in the DM on the Instagram account. Enjoy!
 ---
