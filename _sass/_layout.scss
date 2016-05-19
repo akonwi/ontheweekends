@@ -124,6 +124,8 @@
             &.affiliate > img {
               position: static;
               margin: inherit;
+              width: 100%;
+              height: 100%;
             }
 
             &:hover {
@@ -415,7 +417,7 @@
    ========================================================================== */
 .bio {
   margin-bottom: $spacing-unit;
-  
+
   .lead-portrait {
     width: 50%;
     margin: 0 auto;
